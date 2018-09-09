@@ -1,0 +1,16 @@
+run:
+Sphere:            Center at (2,-8,5), radius of 13, surface area 27608.32, volume 9202.77
+Parallelepiped:    Center at (7,2,9), length 37, width 12, height 9, surface area 1770.00, volume 3996.00
+Cylinder:          Center at (3,-4,5), radius 11, height 13, surface area 1658.76, volume 4941.73
+Cone:              Center at (-5,2,-1), radius 10, height 14, surface area 61889.38, volume 1466.08
+
+Cone volume: 1466.08
+Parallelepiped volume: 3996.00
+Cylinder volume: 4941.73
+Sphere volume: 9202.77
+
+Parallelepiped distance: 11.58
+Sphere distance: 9.64
+Cylinder distance: 7.07
+Cone distance: 5.48
+BUILD SUCCESSFUL (total time: 0 seconds)

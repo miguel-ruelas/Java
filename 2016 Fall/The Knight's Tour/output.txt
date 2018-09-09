@@ -1,0 +1,86 @@
+Tour Number: 62
+Number of Moves: 58
+=====================================
+ 1   44    3   14   31   46    *    *   
+
+34   15   32   45    4   17   28   47   
+
+43    2   35   16   13   30    *    *   
+
+58   33   42    5   18   27   48   29   
+
+41   36   57   12    *    6   19    *   
+
+56   11   40   23   20   51   26   49   
+
+37   22    9   54   39   24    7   52   
+
+10   55   38   21    8   53   50   25   
+
+
+Tours with  0 move(s): 0
+Tours with  1 move(s): 0
+Tours with  2 move(s): 0
+Tours with  3 move(s): 0
+Tours with  4 move(s): 0
+Tours with  5 move(s): 0
+Tours with  6 move(s): 0
+Tours with  7 move(s): 0
+Tours with  8 move(s): 0
+Tours with  9 move(s): 0
+Tours with 10 move(s): 0
+Tours with 11 move(s): 0
+Tours with 12 move(s): 0
+Tours with 13 move(s): 0
+Tours with 14 move(s): 1
+Tours with 15 move(s): 0
+Tours with 16 move(s): 0
+Tours with 17 move(s): 0
+Tours with 18 move(s): 2
+Tours with 19 move(s): 1
+Tours with 20 move(s): 0
+Tours with 21 move(s): 2
+Tours with 22 move(s): 0
+Tours with 23 move(s): 2
+Tours with 24 move(s): 1
+Tours with 25 move(s): 1
+Tours with 26 move(s): 4
+Tours with 27 move(s): 2
+Tours with 28 move(s): 3
+Tours with 29 move(s): 1
+Tours with 30 move(s): 1
+Tours with 31 move(s): 4
+Tours with 32 move(s): 2
+Tours with 33 move(s): 7
+Tours with 34 move(s): 2
+Tours with 35 move(s): 5
+Tours with 36 move(s): 8
+Tours with 37 move(s): 4
+Tours with 38 move(s): 5
+Tours with 39 move(s): 3
+Tours with 40 move(s): 1
+Tours with 41 move(s): 5
+Tours with 42 move(s): 1
+Tours with 43 move(s): 2
+Tours with 44 move(s): 6
+Tours with 45 move(s): 6
+Tours with 46 move(s): 2
+Tours with 47 move(s): 0
+Tours with 48 move(s): 3
+Tours with 49 move(s): 3
+Tours with 50 move(s): 2
+Tours with 51 move(s): 2
+Tours with 52 move(s): 1
+Tours with 53 move(s): 1
+Tours with 54 move(s): 0
+Tours with 55 move(s): 1
+Tours with 56 move(s): 1
+Tours with 57 move(s): 1
+Tours with 58 move(s): 1
+Tours with 59 move(s): 0
+Tours with 60 move(s): 0
+Tours with 61 move(s): 0
+Tours with 62 move(s): 0
+Tours with 63 move(s): 0
+Tours with 64 move(s): 0
+

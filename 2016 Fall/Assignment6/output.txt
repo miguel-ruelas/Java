@@ -1,0 +1,74 @@
+run:
+Operation APPEND item : 5 at end of list.
+Printing the list:
+5  
+
+Operation APPEND item : 20 at end of list.
+Printing the list:
+5  20  
+
+Operation APPEND item : 12 at end of list.
+Printing the list:
+5  20  12  
+
+Operation APPEND item : 37 at end of list.
+Printing the list:
+5  20  12  37  
+
+Operation ADD item : 7 in element: 3
+Printing the list:
+5  20  7  12  37  
+
+Operation ADD item : 19 in element: 1
+Printing the list:
+19  5  20  7  12  37  
+
+Operation DELETE item :  in element: 3
+Printing the list:
+19  5  7  12  37  
+
+Operation DELETE item :  in element: 1
+Printing the list:
+5  7  12  37  
+
+Operation ADD item : 44 in element: 1
+Printing the list:
+44  5  7  12  37  
+
+Operation ADD item : 22 in element: 2
+Printing the list:
+44  22  5  7  12  37  
+
+Operation DELETE item :  in element: 6
+Printing the list:
+44  22  5  7  12  
+
+Operation SWAP element : 3 with element: 5
+Printing the list:
+44  22  12  7  5  
+
+Operation REVERSE completed 
+Printing the list:
+5  7  12  22  44  
+
+Operation SWAP element : 1 with element: 3
+Printing the list:
+12  7  5  22  44  
+
+Operation SWAP element : 3 with element: 4
+Printing the list:
+12  7  22  5  44  
+
+Operation SWAP element : 2 with element: 2
+Printing the list:
+12  7  22  5  44  
+
+Operation CLEAR completed
+Printing the list:
+The list is empty.
+
+Operation REVERSE completed 
+Printing the list:
+The list is empty.
+
+BUILD SUCCESSFUL (total time: 0 seconds)

@@ -1,0 +1,119 @@
+JAV001 ARRIVE
+Car with License: JAV001 was parked in space 1. 
+There is 1 vehicles in the garage.
+[JAV001 0, null, null, null, null, null, null, null, null, null]
+JAV002 ARRIVE
+Car with License: JAV002 was parked in space 2. 
+There is 2 vehicles in the garage.
+[JAV001 0, JAV002 0, null, null, null, null, null, null, null, null]
+JAV003 ARRIVE
+Car with License: JAV003 was parked in space 3. 
+There is 3 vehicles in the garage.
+[JAV001 0, JAV002 0, JAV003 0, null, null, null, null, null, null, null]
+JAV004 ARRIVE
+Car with License: JAV004 was parked in space 4. 
+There is 4 vehicles in the garage.
+[JAV001 0, JAV002 0, JAV003 0, JAV004 0, null, null, null, null, null, null]
+JAV005 ARRIVE
+Car with License: JAV005 was parked in space 5. 
+There is 5 vehicles in the garage.
+[JAV001 0, JAV002 0, JAV003 0, JAV004 0, JAV005 0, null, null, null, null, null]
+JAV001 DEPART
+Car with License: JAV001 was found in space 1 and has departed.
+There is 4 vehicles in the garage.
+[JAV002 0, JAV003 0, JAV004 0, JAV005 0, JAV005 0, null, null, null, null, null]
+JAV004 DEPART
+Car with License: JAV004 was found in space 3 and has departed.
+There is 3 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV005 0, JAV005 0, null, null, null, null, null]
+JAV006 ARRIVE
+Car with License: JAV006 was parked in space 4. 
+There is 4 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV005 0, null, null, null, null, null]
+JAV007 ARRIVE
+Car with License: JAV007 was parked in space 5. 
+There is 5 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, null, null, null, null, null]
+JAV008 ARRIVE
+Car with License: JAV008 was parked in space 6. 
+There is 6 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, null, null, null, null]
+JAV009 ARRIVE
+Car with License: JAV009 was parked in space 7. 
+There is 7 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, null, null, null]
+JAV010 ARRIVE
+Car with License: JAV010 was parked in space 8. 
+There is 8 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, JAV010 0, null, null]
+JAV011 ARRIVE
+Car with License: JAV011 was parked in space 9. 
+There is 9 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, null]
+JAV012 ARRIVE
+Car with License: JAV012 was parked in space 10. 
+There is 10 vehicles in the garage.
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0]
+JAV013 ARRIVE
+Car with license : JAV013 denied entry. The garage is full!
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0]
+JAV014 ARRIVE
+Car with license : JAV014 denied entry. The garage is full!
+[JAV002 1, JAV003 1, JAV005 0, JAV006 0, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0]
+JAV006 DEPART
+Car with License: JAV006 was found in space 4 and has departed.
+There is 9 vehicles in the garage.
+[JAV002 2, JAV003 2, JAV005 1, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0, JAV012 0]
+JAV014 DEPART
+That vehicle is not here!
+[JAV002 2, JAV003 2, JAV005 1, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0, JAV012 0]
+JAV013 DEPART
+That vehicle is not here!
+[JAV002 2, JAV003 2, JAV005 1, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0, JAV012 0]
+JAV005 DEPART
+Car with License: JAV005 was found in space 3 and has departed.
+There is 8 vehicles in the garage.
+[JAV002 3, JAV003 3, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0, JAV012 0, JAV012 0]
+JAV015 ARRIVE
+Car with License: JAV015 was parked in space 9. 
+There is 9 vehicles in the garage.
+[JAV002 3, JAV003 3, JAV007 0, JAV008 0, JAV009 0, JAV010 0, JAV011 0, JAV012 0, JAV015 0, JAV012 0]
+JAV010 DEPART
+Car with License: JAV010 was found in space 6 and has departed.
+There is 8 vehicles in the garage.
+[JAV002 4, JAV003 4, JAV007 1, JAV008 1, JAV009 1, JAV011 0, JAV012 0, JAV015 0, JAV015 0, JAV012 0]
+JAV002 DEPART
+Car with License: JAV002 was found in space 1 and has departed.
+There is 7 vehicles in the garage.
+[JAV003 4, JAV007 1, JAV008 1, JAV009 1, JAV011 0, JAV012 0, JAV015 0, JAV015 0, JAV015 0, JAV012 0]
+JAV015 DEPART
+Car with License: JAV015 was found in space 7 and has departed.
+There is 6 vehicles in the garage.
+[JAV003 5, JAV007 2, JAV008 2, JAV009 2, JAV011 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV013 DEPART
+That vehicle is not here!
+[JAV003 5, JAV007 2, JAV008 2, JAV009 2, JAV011 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV009 DEPART
+Car with License: JAV009 was found in space 4 and has departed.
+There is 5 vehicles in the garage.
+[JAV003 6, JAV007 3, JAV008 3, JAV011 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV003 DEPART
+Car with License: JAV003 was found in space 1 and has departed.
+There is 4 vehicles in the garage.
+[JAV007 3, JAV008 3, JAV011 1, JAV012 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV008 DEPART
+Car with License: JAV008 was found in space 2 and has departed.
+There is 3 vehicles in the garage.
+[JAV007 4, JAV011 1, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV007 DEPART
+Car with License: JAV007 was found in space 1 and has departed.
+There is 2 vehicles in the garage.
+[JAV011 1, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV012 DEPART
+Car with License: JAV012 was found in space 2 and has departed.
+There is 1 vehicles in the garage.
+[JAV011 2, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]
+JAV011 DEPART
+Car with License: JAV011 was found in space 1 and has departed.
+There is 0 vehicles in the garage.
+[JAV011 2, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV012 1, JAV015 0, JAV015 0, JAV015 0, JAV012 1]

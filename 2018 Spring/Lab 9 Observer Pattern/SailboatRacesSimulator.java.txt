@@ -1,0 +1,35 @@
+import java.util.*;
+
+public class SailboatRacesSimulator {
+	RaceData raceData;
+	List<Boat> boatList = new ArrayList<>();
+	Random rand = new Random();
+
+	void start() {
+		boatList.add(new Boat("Moby", 82.5) );
+		boatList.add(new Boat("Enterprise",54.1) );
+		boatList.add(new Boat("Ticonderoga",494.0) );
+		boatList.add(new Boat("Kialoa",202.0) );
+		raceData = new RaceData(boatList);
+		LatestScoresDisplay scoresDisplay = new LatestScoresDisplay(raceData);
+		raceData.raceResultsChanged(boatList);
+		updateRaceResults();
+		updateRaceResults();
+		updateRaceResults();
+		updateRaceResults();		
+	}
+		
+	void updateRaceResults() {
+		for( Boat inv :  boatList) {
+			double factor = rand.nextDouble() * 10 - 5.0;
+			inv.score *= factor;
+		}
+		
+		raceData.raceResultsChanged(boatList);
+	}
+	
+	public static void main(String[] args) {
+		new SailboatRacesSimulator().start();
+	}
+	
+} // class
